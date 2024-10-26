@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Number Facts</string>
+    <string name="sample_text">The answer to life, the universe, and everything.</string>
+    <string name="sample_number">42</string>
+    <string name="get_fact">Get fact</string>
+    <string name="get_fact_about_random_number">Get fact about random number</string>
+    <string name="enter_number">Enter number</string>
+</resources>
